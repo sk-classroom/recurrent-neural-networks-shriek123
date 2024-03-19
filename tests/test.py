@@ -31,7 +31,7 @@ class TestRNN(unittest.TestCase):
 class TestLSTM(unittest.TestCase):
 
     def setUp(self):
-        self.root = ".."
+        self.root = "."
 
     def test_lstm_loss(self):
 
